@@ -1,7 +1,7 @@
-                                    ## Hi👋, I'm Mordechai
+  # Hi👋, I'm Mordechai
                  
-                   **I enjoy working with data and learning about new technologies**
-- 👀 I’m interested in data science, machine learning and building interactive applications
+**I enjoy working with data and learning about new technologies**
+- 👀 I’m interested in data science, machine learning and building interactive applications                                                              
 - 🌱 I’m currently learning about advanced machine learning techniques and exploring new data science methodologies.
 - 💞️ I’m looking to collaborate on projects related to data science, machine learning, and innovative tech solutions.  
 - 📫 Feel free to reach out to me in [linkedIn](https://www.linkedin.com/in/mordechai-magak) or Email - orechmordechai@gmail.com
