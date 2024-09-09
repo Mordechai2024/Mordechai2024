@@ -1,4 +1,4 @@
-<img src="https://github.com/Mordechai2024/Mordechai2024/blob/main/MLearning%20image.jpg?raw=true" alt="Example Image" width="600" style="float: right; margin-right: 10px;"/>
+<img src="https://github.com/Mordechai2024/Mordechai2024/blob/main/MLearning%20image.jpg?raw=true" alt="Example Image" width="900" style="float: right; margin-right: 10px;"/>
   
   # Hi👋, I'm Mordechai
                  
