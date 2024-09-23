@@ -8,7 +8,8 @@
 - 💞️ I’m looking to collaborate on projects related to data science, machine learning, and innovative tech solutions.  
 - 📫 Feel free to reach out to me in [linkedIn](https://www.linkedin.com/in/mordechai-magak) or Email - orechmordechai@gmail.com
 - 🌆 Currently live in Munich.
-- ⚡ Fun fact: I enjoy teaching people complex stuff in a easier way, my freinds tell me am a good teacher.
+- ⚡ Hobbies: I enjoy teaching people complex stuff in a easier way, my freinds tell me am a good teacher.
+- ⚡ Fun Fact: I love watching movies for the second time to catch all the little details I missed the first time around!
 
 
 
